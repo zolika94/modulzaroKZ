@@ -1,1 +1,1 @@
-# harmadik sor
+# otodik sor
