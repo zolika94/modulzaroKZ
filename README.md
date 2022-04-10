@@ -1,2 +1,3 @@
 # modulzaroKZ
-# elso sor
+# masodik sor
+
