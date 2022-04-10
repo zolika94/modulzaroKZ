@@ -1,1 +1,2 @@
 # modulzaroKZ
+# elso sor
