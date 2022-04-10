@@ -1,3 +1,2 @@
-# modulzaroKZ
-# masodik sor
+# negyedik sor
 
