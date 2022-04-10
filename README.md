@@ -1,2 +1,1 @@
-# modulzaroKZ
-# elso sor
+# otodik sor
